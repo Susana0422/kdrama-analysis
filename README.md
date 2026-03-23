@@ -72,15 +72,13 @@ kdrama-analysis/
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](assets/dashboard_preview.png)
-
 🔗 **[Explore the full interactive dashboard here](https://lookerstudio.google.com/reporting/1c41e24e-d2db-48e4-871d-94460013ac50)**
 
 ---
 
 ## 🗄️ Dataset
 
-- **Source:** [Kaggle](https://www.kaggle.com)
+- **Source:** [Kaggle](https://www.kaggle.com/datasets/redhata/korean-drama-dataset-2010-2025-2600-titles)
 - **Records:** 1,747 K-dramas
 - **Period:** 2010 – 2025
 - **Fields:** title, genres, cast, directors, score, watchers, voters, year, platform, episodes, duration, and more
